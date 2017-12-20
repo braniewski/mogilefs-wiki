@@ -1,6 +1,6 @@
 # MogileFS Wiki #
 
-[Here is mogilefs wiki exported from original site.](https://github.com/hrchu/mogilefs/edit/wiki/Start.md)
+[Here is mogilefs wiki exported from original site.](https://github.com/hrchu/mogilefs/blob/wiki/Start.md)
 
 
 
